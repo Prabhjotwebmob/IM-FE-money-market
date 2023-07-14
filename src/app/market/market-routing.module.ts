@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { MarketComponent } from './market/market.component';
 
 const routes: Routes = [{
-  path: '',
+  path: '**',
   component: MarketComponent
 }];
 

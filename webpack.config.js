@@ -28,7 +28,7 @@ module.exports = new withModuleFederationPlugin({
 //       name: 'market',
 
 //       exposes: {
-//         './Module': './src/app/IM-FE-market/IM-FE-market.module.ts',
+//         './Module': './src/app/market/market.module.ts',
 //       },
 
 //       shared: {

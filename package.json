@@ -1,10 +1,10 @@
 {
-  "name": "IM-FE-money-market",
+  "name": "money-market",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href='/IM-FE-money-market/'",
+    "build": "ng build --base-href='/money-market/'",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "run:all": "node node_modules/@angular-architects/module-federation/src/server/mf-dev-server.js"
